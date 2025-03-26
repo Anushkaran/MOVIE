@@ -12,12 +12,4 @@
 - React
 - Tailwind CSS
 
-## Screenshot
- 
-### Desktop 
- ![Screenshot from 2025-01-24 17-48-50](https://github.com/user-attachments/assets/2fe3b3ef-3385-4b1f-b444-0f70528f1c8e)
-
-
-### Mobile view
-![Screenshot from 2025-01-24 17-49-43](https://github.com/user-attachments/assets/6991fe4d-2e6c-4e9f-8151-054cd4edeabd)
 
